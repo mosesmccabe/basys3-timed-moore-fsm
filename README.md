@@ -69,10 +69,6 @@ docs/
 - Mechanical button reset is connected directly here for this lab. For robust external-input handling, apply synchronization and release-conditioning as appropriate; raw reset-button deassertion near a rising edge is not a production reset strategy.
 - A passing timing summary establishes the reported **constrained** timing checks, not exhaustive proof of every system-level functional requirement. Do not use this demonstrator to drive safety-critical equipment.
 
-## Full study guide
 
-See [FPGA Day 11 Study & Review Guide (PDF)](docs/FPGA_Day11_Study_Review_Guide.pdf) for annotated architecture, cycle-level reasoning, complete RTL, waveform walkthrough, actual synthesis/timing screenshots, quiz and answer key.
-
-## License
 
 No license was selected for this educational repository. Add one if you want to define permissions for reuse.
